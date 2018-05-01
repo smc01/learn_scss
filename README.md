@@ -15,4 +15,4 @@
 
 > npm run build-scsss
 
-5. use inheritage sample code from [ sass documentation ](https://sass-lang.com/guide)
+5. Use inheritance sample code from [ sass documentation ](https://sass-lang.com/guide) for messages classes

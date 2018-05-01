@@ -1,0 +1,20 @@
+@import 'message-base';
+
+.message {
+    @extend %message-shared;
+  }
+  
+  .success {
+    @extend %message-shared;
+    color: green;
+  }
+  
+  .error {
+    @extend %message-shared;
+    color: red;
+  }
+  
+  .warning {
+    @extend %message-shared;
+    color: yellow;
+  }

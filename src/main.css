@@ -1,0 +1,17 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: rgba(11, 81, 172, 0.349); }
+
+.message, .success, .error, .warning {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333; }
+
+.success {
+  color: green; }
+
+.error {
+  color: red; }
+
+.warning {
+  color: yellow; }

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "build-scss": "node-sass --include-path scss src/scss/main.scss   src/main.css"  },
+    "build-scss": "node-sass --include-path scss src/scss/main.scss   src/main.css"
+  },
   "author": "",
   "license": "ISC"
 }
